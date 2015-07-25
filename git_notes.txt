@@ -1,0 +1,19 @@
+Git Hub:
+
+git init = create root directory/repository for each project you work on.
+
+git add = stage new file before committing.
+
+git commit -m “notes for commit”
+
+.git = hidden file/directories
+
+git branch brandname = create new branch
+
+git branch = list branches
+
+git checkout branchname
+
+git remote
+
+git push
