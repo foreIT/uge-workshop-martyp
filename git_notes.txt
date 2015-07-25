@@ -13,3 +13,7 @@ git branch brandname = create new branch
 git branch = list branches
 
 git checkout branchname
+
+git remote
+
+git push
