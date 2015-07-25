@@ -1,0 +1,17 @@
+    1  clear
+    2  history
+    3  history 5
+    4  history 1
+    5  clear
+    6  man less
+    7  clear
+    8  ls
+    9  create moving_around.txt
+   10  subl moving_around.txt
+   11  history moving_around.txt
+   12  ls
+   13  history /moving_around.txt
+   14  history
+   15  history >moving
+   16  history >moving_around.txt
+   17  history > moving_around.txt
